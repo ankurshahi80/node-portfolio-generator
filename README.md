@@ -6,7 +6,7 @@ The node-portfolio-generator app is a tool that uses the command line to capture
 
 ## Table of Contents
 
-* [Installation] (#installation)
+* [Installation](#installation)
 
 ## Installation
 
