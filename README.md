@@ -35,7 +35,7 @@ Follow the steps below to install the tool.
     * Programming Languages
     * Project link
 
-    ![200-templatedata-commandline](https://user-images.githubusercontent.com/79622822/149266315-2a2acfed-4f7c-40cd-b822-f914b94be1e7.jpg)
+   ![200-templatedata-commandline](https://user-images.githubusercontent.com/79622822/149266315-2a2acfed-4f7c-40cd-b822-f914b94be1e7.jpg)
 
   4. The `index.html` and `style.css` files will be created in the `dist` folder after all the prompts are answered.
   5. Open `index.html` in the browser to see your new portfolio
