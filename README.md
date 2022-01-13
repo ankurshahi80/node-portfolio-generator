@@ -7,13 +7,18 @@ The node-portfolio-generator app is a tool that uses the command line to capture
 ## Table of Contents
 
 * [Installation](#installation)
+* [Usage](#usage)
 
 ## Installation
 
 Follow the steps below to install the tool.
 
-* Install Node.js for your device
+1. Install Node.js for your device
   * [Node's website](https://nodejs.org/en/)
-* From the command line on your computer, use cd to navigate to the directory where you want to clone your repository
-* Clone the repository to your computer using git clone.
-* cd into the directory and run npm install to install the node modules and dependencies
+2. From the command line on your computer, use cd to navigate to the directory where you want to clone your repository
+3. Clone the repository to your computer using git clone.
+4. cd into the directory and run npm install to install the node modules and dependencies
+
+## Usage
+
+* From the terminal, go the project root directory and run the command `node app`
