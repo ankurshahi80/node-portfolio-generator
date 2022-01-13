@@ -21,4 +21,21 @@ Follow the steps below to install the tool.
 
 ## Usage
 
-* From the terminal, go the project root directory and run the command `node app`
+1. From the terminal, go the project root directory and run the command `node app` to start the app
+2. You'll be prompted to provide profile and project information
+3. Enter the details. Note: Some questions are mandatory and must be completed
+  Profile questions
+    * Name
+    * GitHub account name
+    * About me
+  
+  Project questions
+    * Project name
+    * Project description
+    * Programming Languages
+    * Project link
+
+    ![200-templatedata-commandline](https://user-images.githubusercontent.com/79622822/149266315-2a2acfed-4f7c-40cd-b822-f914b94be1e7.jpg)
+
+  4. The `index.html` and `style.css` files will be created in the `dist` folder after all the prompts are answered.
+  5. Open `index.html` in the browser to see your new portfolio
