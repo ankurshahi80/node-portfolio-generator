@@ -8,6 +8,8 @@ The node-portfolio-generator app is a tool that uses the command line to capture
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
 ## Installation
 
@@ -39,3 +41,7 @@ Follow the steps below to install the tool.
 
   4. The `index.html` and `style.css` files will be created in the `dist` folder after all the prompts are answered.
   5. Open `index.html` in the browser to see your new portfolio
+
+## Credits
+
+## License
